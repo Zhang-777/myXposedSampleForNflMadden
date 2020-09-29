@@ -1,0 +1,3 @@
+https://protogen.marcgravell.com/decode/
+https://cryptii.com/pipes/aes-encryption
+https://www.pelock.com/products/hash-calculator
